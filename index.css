@@ -25,9 +25,10 @@ header {
 header,
 section {
   max-width: 300px;
-  margin-left: 99px;
+  margin-left: 70px;
+  margin-right: 50px;
   right: 100px;
-  margin: 0 auto;
+  margin-top: 80px;
 }
 
 header h1 {
